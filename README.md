@@ -1,6 +1,6 @@
 This smart contract facilitates a staking platform on the Ethereum blockchain. Users can deposit tokens (specifically,
 
- the token defined in the contract) to earn interest over a predefined lock-in period.
+ The token defined in the contract) to earn interest over a predefined lock-in period.
 
 Features:
 
